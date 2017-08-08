@@ -1,0 +1,97 @@
+# config
+config/**
+
+*.py[cod]
+*.pyc
+# swap files
+*.sw[op]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Logs
+
+logs/**
+log/**
+
+# temp
+
+tmp/**
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+.cache/**
+.cache/
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Complexity
+output/*.html
+output/*/index.html
+.ropeproject/
+
+# Sphinx
+docs/_build
+
+.webassets-cache
+
+# Virtualenvs
+env
+env/*
+
+
+#rope
+.ropeproject/**
+.idea/
+.DS_Store
+
+# javascript
+
+.tern-port
+
+# config
+config.yaml
+
+.#*
+
+# secret
+secret
+
+#idea
+.idea/
+
+# celery process files
+*.bak
+*.bat
+*.dat
+*.pid
+*.dir
+
+# vscode
+.vscode/**
+vscode/**
